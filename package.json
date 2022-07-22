@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests running...\"",
+    "build": "echo \"Build runnning...\"",
+    "deploy": "echo \"Deploying new build to cloud server...\""
+  },
+  "author": "",
+  "license": "ISC"
+}
